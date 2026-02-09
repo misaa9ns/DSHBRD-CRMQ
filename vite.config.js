@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/', // Change this to '/YOUR-REPO-NAME/' for GitHub Pages deployment
+  base: '/DSHBRD-CRMQ/', // Updated for GitHub Pages
 })
